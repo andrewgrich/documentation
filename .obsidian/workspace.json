@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e7aba128f0dadb61",
+    "type": "split",
+    "children": [
+      {
+        "id": "3462dadf8a601474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f9c15ee0d14055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home network/Netgear GS108Ev3 - 8-Port Gigabit Ethernet Smart Managed Plus Switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2eb053365eeb1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home network/Clients/192.168.2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9bd84317eae0490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home network/Clients/192.168.20.4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb7797e1d5b55274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5738cb5415e2ec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8540530b86148f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f70adb21faa517b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5deb97b7b3ad94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b8b8d4f0333c89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "729b29575a3d2ff5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7e01d0c600a8994d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d8f96cedfcd832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ff5e7ba1bbcb20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e65d9501594a957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88fe0cfcc2ff1d7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25a786a4b19ca468",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Commands.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a5738cb5415e2ec4",
+  "lastOpenFiles": [
+    "README.md",
+    "Commands.md",
+    "Bookmarks.md",
+    "2022-10-21.md",
+    "home network/Unformatted.md",
+    "home network/Clients/Clients.md",
+    "home network/Clients/192.168.20.117.md",
+    "home network/Clients/192.168.20.4.md",
+    "home network/Clients/192.168.2.1.md",
+    "home network/home network.md"
+  ]
+}

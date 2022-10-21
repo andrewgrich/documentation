@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "c113126e31bd9e4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70e27c97db789d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "home network/Subnets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7167d45c67914b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b2a488009bfc5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b67c2f1efb562707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "222fe33e35cea20e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00467e27b1b1c718",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "872204c2d21bf3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa8c090dff10a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd502b8ff530f23a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home network/Subnets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16df89024508afd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home network/Subnets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de78430927ec8fb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fce98b2561ad014a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home network/Subnets.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d70e27c97db789d6",
+  "lastOpenFiles": []
+}
